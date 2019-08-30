@@ -1,3 +1,17 @@
+# Recipe App
+
+A recipe app to make dinner time more exciting!
+
+## To run:
+1. Clone this repo to your local machine.
+2. Go to edamam.com and sign up for a free account
+3. Put your API key into the .env_sample file, and rename the file.env
+4. In the terminal run `npm start`
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
